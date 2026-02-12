@@ -1,0 +1,34 @@
+From Canada Post (Created at: 10-02-2026, 4:28:26 pm) 
+Message: Hi Ke! I'm your Support Virtual Assistant. I'm here to help if you have any questions about Canada Post services.
+
+From You (Created at: 10-02-2026, 4:29:34 pm) 
+Message: I just got my mail box key, but i do not know the location of my mail box and the module number and the personal compartment number
+
+From Canada Post (Created at: 10-02-2026, 4:29:34 pm) 
+Message: I understand you'd like to confirm your mailbox information. 
+
+Do you already have your mailbox keys?
+
+From You (Created at: 10-02-2026, 4:29:39 pm) 
+Message: Yes
+
+From Canada Post (Created at: 10-02-2026, 4:29:39 pm) 
+Message: I see you're signed in with your Canada Post account, Ke. I'd like to confirm the type of mailbox you have. Is this the address you’re inquiring about?<br><br>
+1612-150 McFaull Way<br>
+Saskatoon  SK S7V1W4
+
+From You (Created at: 10-02-2026, 4:29:50 pm) 
+Message: Yes, this address
+
+From Canada Post (Created at: 10-02-2026, 4:29:50 pm) 
+Message: Great, looks like your address receives mail at a **community mailbox**. You'll need 2 numbers to identify your compartment within your community mailbox.
+
+1. Locate the **module** number in the top left-hand corner of your community mailbox. 
+2. Your personal **compartment** number is located on a locked box within the module.
+
+Your mailbox location is: ACROSS FROM UNIT#1812-140 MCFAULL WAY.
+
+Your **module** number is **4** and your personal **compartment** is **6**.
+
+Is there anything else I can help you with today?
+
