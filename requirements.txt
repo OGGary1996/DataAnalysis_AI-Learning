@@ -1,0 +1,31 @@
+# Notebook environment
+jupyterlab
+
+# Core data analysis
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+scipy
+xgboost
+joblib
+
+# Deep learning / vision
+torch
+torchvision
+pillow
+keras
+
+# Web / parsing
+requests
+lxml
+beautifulsoup4
+Unidecode
+google-api-python-client
+
+# Database
+SQLAlchemy
+PyMySQL
